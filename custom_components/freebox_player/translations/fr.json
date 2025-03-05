@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Freebox Player",
+        "description": "Bienvenue dans l'intégration Freebox Player. Remplissez les 2 champs ci-dessous puis cliquez sur le bouton Valider pour démarrer l'authentification, enfin validez la demande sur l'interface de la Freebox.",
+        "data": {
+          "ip_address": "Adresse IP du Player",
+          "remote_code": "Code Télécommande"
+        }
+      }
+    }
+  },
+  "error": {
+    "cannot_connect": "Impossible de se connecter à la Freebox.",
+    "unknown": "Une erreur inconnue est survenue.",
+    "timeout": "Le temps d'attente de l'autorisation a expiré.",
+    "denied": "La demande d'autorisation a été refusée."
+  }
+}

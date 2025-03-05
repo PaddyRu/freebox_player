@@ -1,0 +1,6 @@
+remote:
+  description: "Send a command to the Freebox Player"
+  fields:
+    code:
+      description: "The command code to send"
+      example: "play_pause"

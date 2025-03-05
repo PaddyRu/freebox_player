@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Freebox Player",
+        "description": "Welcome to the Freebox Player integration. Fill the 2 fields and then click the button below to start the authentication process, then approve the request on the Freebox interface.",
+        "data": {
+          "ip_address": "Player IP Address",
+          "remote_code": "Remote Code"
+        }
+      }
+    }
+  },
+  "error": {
+    "cannot_connect": "Cannot connect to Freebox.",
+    "unknown": "An unknown error occurred.",
+    "timeout": "Authorization request timed out.",
+    "denied": "Authorization request was denied."
+  }
+}
