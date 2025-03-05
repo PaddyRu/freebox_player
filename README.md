@@ -17,7 +17,7 @@ For now the setup is fairly straightforward.
 ### HACS Install
 
 1. Search for `Freebox Player` under `Integrations` in the HACS Store tab and download it.
-2. 
+2. Add the integration
 <a href="https://my.home-assistant.io/redirect/config_flow_start?domain=freebox_player_api" class="my badge" target="_blank"><img src="https://my.home-assistant.io/badges/config_flow_start.svg"></a>
 
 ## Features
